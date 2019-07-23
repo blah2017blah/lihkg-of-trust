@@ -72,6 +72,9 @@ const userList = {
 [舉報] 舉報"XXXX"會員為三毛/五毛/假膠
 [提名] 提名"XXXX"會員為優質會員
 
+**會員連結**
+[會員用戶名](https://lihkg.com/profile/22715)
+
 **舉報/提名簡介**
 簡單說一下為什麼舉報/提名
 
@@ -87,7 +90,11 @@ const userList = {
 其他額外資訊
 ```
 
-5. 待檢查確實後會接受你的提交
+5. 按 "Propose file change"
+
+6. 按 "Create pull request"
+
+7. 待檢查確實後會接受你的提交
 
 ## 其他請求
 
