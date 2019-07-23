@@ -49,7 +49,7 @@ const userList = {
 }
 ```
 
-3. 加入你的提名或舉報
+3. 加入你的舉報或提名
 
 ```js
 const userList = {
@@ -59,7 +59,7 @@ const userList = {
     '用戶名2': {
         trusted: true,
     },
-    '你的舉報用戶名': {
+    '你的舉報或提名用戶名': {
         troll: true,
     },
 }
