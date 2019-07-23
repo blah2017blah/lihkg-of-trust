@@ -2,6 +2,8 @@
 
 連登用戶聲譽評級插件 (靈感源於[WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp))
 
+注：目前只在Google Chrome上開發。但歡迎其他的Pull Requests。
+
 ## 安裝
 
 1. 安裝[Google Chrome](https://www.google.com/chrome/)
@@ -60,6 +62,10 @@ const userList = {
 ## 其他請求
 
 [按這裡](https://github.com/blah2017blah/lihkg-of-trust/issues/new/choose)
+
+## Contribute
+
+歡迎各類Pull Requests
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
