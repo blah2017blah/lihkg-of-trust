@@ -5,6 +5,14 @@
 注：目前只在Google Chrome上開發。但歡迎其他的Pull Requests。
 注2: 所有處理都只在本機local進行。絕對安全。可在這裡, Tampermonkey或OpenUserJS查看原始碼。
 
+## 截圖
+
+![trusted](http://imgur.com/nDd53tt.jpg)
+
+![five_cents](http://imgur.com/eADEjE2.jpg)
+
+![troll](http://imgur.com/JxV7XQ7.jpg)
+
 ## 安裝
 
 1. 安裝[Google Chrome](https://www.google.com/chrome/)
