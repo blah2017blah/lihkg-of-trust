@@ -57,5 +57,9 @@ const userList = {
 
 5. 待檢查確實後會接受你的提交
 
+## 其他請求
+
+[按這裡](https://github.com/blah2017blah/lihkg-of-trust/issues/new/choose)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
