@@ -49,7 +49,7 @@ const userList = {
 }
 ```
 
-3. 加入你的舉報
+3. 加入你的提名或舉報
 
 ```js
 const userList = {
