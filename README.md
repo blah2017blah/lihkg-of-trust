@@ -2,9 +2,9 @@
 
 連登用戶聲譽評級插件 (靈感源於[WOT](https://chrome.google.com/webstore/detail/wot-web-of-trust-website/bhmmomiinigofkjcapegjjndpbikblnp))
 
-注：目前只在Google Chrome上開發。但歡迎其他的Pull Requests。
+注1：目前只在Google Chrome上開發。但歡迎其他的Pull Requests。
 
-注2: 所有處理都只在本機local進行。絕對安全。可在這裡, Tampermonkey或OpenUserJS查看原始碼。
+注2：所有處理都只在本機local進行。絕對安全。可在這裡, Tampermonkey或OpenUserJS查看原始碼。
 
 ## 截圖
 
