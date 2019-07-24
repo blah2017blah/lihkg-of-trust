@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         lihkg-of-trust
-// @version      0.0.2
+// @version      0.0.3
 // @description  LIHKG of Trust. LIHKG User Reputation.
 // @license      MIT
 // @author       blah2017blah
@@ -47,9 +47,9 @@
         // },
     }
 
-    const fiveCentsIcon = '<i class="em em-bug" />'
-    const trollsIcon = '<i class="em em-clown_face"/>'
-    const trustedIcon = '<i class="em em-reminder_ribbon"/>'
+    const fiveCentsIcon = '<span class="ec ec-bug" />'
+    const trollsIcon = '<span class="ec ec-clown-face"/>'
+    const trustedIcon = '<span class="ec ec-reminder-ribbon"/>'
 
     const getElementByXpath = (path, contextNode = document) => document.evaluate(path, contextNode, null, XPathResult.ANY_TYPE, null)
 
@@ -58,7 +58,7 @@
         const link = document.createElement('link')
         link.rel = 'stylesheet'
         link.type = 'text/css'
-        link.href = 'https://afeld.github.io/emoji-css/emoji.css'
+        link.href = 'https://unpkg.com/emoji.css/dist/emoji.min.css'
         link.media = 'all'
         head.appendChild(link)
     }
