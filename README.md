@@ -26,9 +26,9 @@
 
 [提名優質](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=nominate_user.md&title=%5B%E6%8F%90%E5%90%8D%5D+%E6%8F%90%E5%90%8D%22XXXX%22%E6%9C%83%E5%93%A1%E7%82%BA%E5%84%AA%E8%B3%AA%E6%9C%83%E5%93%A1)
 
-[提出申訴](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=appeal.md&title=%5B%E7%94%B3%E8%A8%B4%5D+%E6%9C%83%E5%93%A1+%22XXXX%22+%E6%8F%90%E5%87%BA%E7%94%B3%E8%A8%B4)
+[提出申訴](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=appeal_user.md&title=%5B%E7%94%B3%E8%A8%B4%5D+%E6%9C%83%E5%93%A1+%22XXXX%22+%E6%8F%90%E5%87%BA%E7%94%B3%E8%A8%B4)
 
-[除名優質](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=remove.md&title=%5B%E9%99%A4%E5%90%8D%5D+%E8%AB%8B%E6%B1%82%E9%99%A4%E5%90%8D%E6%9C%83%E5%93%A1%22XXXX%22)
+[除名優質](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=remove_user.md&title=%5B%E9%99%A4%E5%90%8D%5D+%E8%AB%8B%E6%B1%82%E9%99%A4%E5%90%8D%E6%9C%83%E5%93%A1%22XXXX%22)
 
 [發表意見](https://github.com/blah2017blah/lihkg-of-trust/issues/new?assignees=&labels=&template=feature_request.md&title=%5B%E6%84%8F%E8%A6%8B%5D+%E6%84%8F%E8%A6%8B%E7%B0%A1%E4%BB%8B)
 

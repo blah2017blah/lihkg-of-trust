@@ -1,7 +1,7 @@
 ---
 name: 舉報會員
 about: 舉報三毛/五毛/假膠
-title: '[舉報] 舉報"XXXX"會員為三毛/五毛/假膠'
+title: '[舉報] 舉報會員"XXXX"為三毛/五毛/假膠'
 labels: ''
 assignees: ''
 

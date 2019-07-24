@@ -1,7 +1,7 @@
 ---
 name: 提名優質
 about: 提名優質會員
-title: '[提名] 提名"XXXX"會員為優質會員'
+title: '[提名] 提名會員"XXXX"為優質會員'
 labels: ''
 assignees: ''
 
