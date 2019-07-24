@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         lihkg-of-trust
-// @version      0.0.1
+// @version      0.0.2
 // @description  LIHKG of Trust. LIHKG User Reputation.
 // @license      MIT
 // @author       blah2017blah
@@ -16,17 +16,35 @@
 
     /**
      * 格式：
+     * const userIdMap = {
+     *     '用戶名1(不含emoji)': 11111,    // 會員編號 11111
+     * .   '用戶名1别名(不含emoji)': 11111, // 會員編號 11111
+     *
+     *     '用戶名2(不含emoji)': 22222,    // 會員編號 22222
+     * }
+     */
+    const userIdMap = {
+        // '用戶名': 999999,
+    }
+
+    /**
+     * 格式：
      * const userList = {
-     *     '用戶名1(不含emoji)': {
+     *     11111: {             // 會員編號 11111
      *         fiveCents: true, // 三毛/五毛
      *         troll: true,     // 假膠
      *     },
-     *     '用戶名2(不含emoji)': {
+     *     22222: {             // 會員編號 22222
      *         trusted: true,   // 優質
-     *     }
+     *     },
      * }
      */
     const userList = {
+        // 999999: {
+        //     fiveCents: true,
+        //     troll: true,
+        //     trusted: true,
+        // },
     }
 
     const fiveCentsIcon = '<i class="em em-bug" />'
@@ -58,9 +76,15 @@
 
     const updatePanel = nameSpan => {
         const name = nameSpan.innerText.trim()
+        const userId = userIdMap[name]
 
-        if (userList[name]) {
-            const user = userList[name]
+        if (!userId) {
+            return
+        }
+
+        const user = userList[userId]
+
+        if (user) {
             if (user.fiveCents) {
                 attachIcon(fiveCentsIcon, nameSpan)
             }
