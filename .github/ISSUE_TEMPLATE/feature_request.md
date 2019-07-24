@@ -1,7 +1,7 @@
 ---
 name: 發表意見
 about: 有好的idea？來這裡請求！
-title: ''
+title: '[意見] 意見簡介'
 labels: ''
 assignees: ''
 
