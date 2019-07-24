@@ -12,7 +12,7 @@ CD-ROM或連登會員皆可使用
 
 ## 截圖
 
-![trusted](https://github.com/blah2017blah/lihkg-of-trust/blob/master/screenshots/trusted.png)
+![trusted](https://github.com/blah2017blah/lihkg-of-trust/raw/master/screenshots/trusted.png)
 
 ![five_cents](https://github.com/blah2017blah/lihkg-of-trust/raw/master/screenshots/five_cents.png)
 
