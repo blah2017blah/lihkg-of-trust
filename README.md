@@ -8,11 +8,11 @@
 
 ## 截圖
 
-![trusted](http://imgur.com/nDd53tt.jpg)
+![trusted](https://github.com/blah2017blah/lihkg-of-trust/blob/master/screenshots/trusted.png)
 
-![five_cents](http://imgur.com/eADEjE2.jpg)
+![five_cents](https://github.com/blah2017blah/lihkg-of-trust/raw/master/screenshots/five_cents.png)
 
-![troll](http://imgur.com/JxV7XQ7.jpg)
+![troll](https://github.com/blah2017blah/lihkg-of-trust/raw/master/screenshots/troll.png)
 
 ## 安裝
 
